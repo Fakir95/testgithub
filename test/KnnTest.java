@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class KnnTest1 {
+public class KnnTest {
 
 	@SuppressWarnings("deprecation")
 	@Before 
