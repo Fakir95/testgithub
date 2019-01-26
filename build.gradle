@@ -9,7 +9,7 @@ plugins {
 repositories {
     jcenter() 
 }
-mainClassName = 'animpack.Scroll1'
+mainClassName = 'animpack.Knn'
 
 
 //FindBugs
