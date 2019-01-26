@@ -12,17 +12,6 @@ repositories {
 mainClassName = 'animpack.Knn'
 
 
-//Tests
-dependencies {
-    testCompile "junit:junit:4.11"
-}
-sourceSets {
-    test {
-        java {
-            srcDirs = ["test/"]  // Note @Peter's comment below
-        }
-    }
-}
 
 //FindBugs
 tasks.withType(FindBugs) {
